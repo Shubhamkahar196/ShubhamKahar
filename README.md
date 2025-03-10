@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Kahar</h1>
-<h3 align="center">You are welcome</h3>
+<h3 align="center">A passionate backend Developer,Deveops</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkahar196&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkahar196" /> </p>
 
@@ -14,9 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhamkah100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamkah100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-kahar-586199275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-kahar-586199275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/1bjehxnz5x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1bjehxnz5x/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/shubhamk3l40/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/shubhamk3l40/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-kahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kahar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shubhamk3l40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamk3l40" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
