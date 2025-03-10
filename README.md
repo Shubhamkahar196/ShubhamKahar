@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Kahar</h1>
 <h3 align="center">A passionate backend Developer,Deveops</h3>
-<img align="right" alt="coding"  src="https://github.com/user-attachments/assets/df54622a-68cd-4052-b601-0e59e3451a94">
+<img align="center" alt="coding"  src="[https://github.com/user-attachments/assets/df54622a-68cd-4052-b601-0e59e3451a94](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRuYWxycmNtMnFoam9mMHIyZnRhOThxbzJuNmMybHU1ODhhczViOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkahar196&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkahar196" /> </p>
 
